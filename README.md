@@ -1,5 +1,7 @@
-# Artificial Intelligence (AI) and Machine Learning (ML) and Deep Learning Algorithm Project
 
+<h1 align="center">
+Artificial Intelligence (AI) and Machine Learning (ML) and Deep Learning Algorithm Project  <br>
+</h1>
 
 
 <h1 align="center">
