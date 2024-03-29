@@ -1,12 +1,8 @@
-# Artificial-Intelligence-AI-and-Machine-Learning-ML-Deep-Learning-DL-Project
-Artificial Intelligence (AI) and Machine Learning (ML) and Deep Learning Algorithm Project
+# Artificial Intelligence (AI) and Machine Learning (ML) and Deep Learning Algorithm Project
 
 
 
 <h1 align="center">
-  <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src=""C:\Users\naimu\Downloads\CV\IMAGE.jpg"" alt="Markdownify" width="200"></a>
-  <br>
   Naimul Hasan Shadesh
   <br>
 </h1>
